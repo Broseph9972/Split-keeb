@@ -6,8 +6,13 @@
   ==================================================================
 -->
 
-## 10/25/2025 - Learned very very basic kicad  
+## 10/25/2025 3 PM - Learned very very basic kicad  
 
 i read the splitkeeb docs and watched a bunch of yt and went into a discord server. i researched a ton here, and a mainly learned about diodes and resistors and stuff!![Screenshot 2025-10-25 190233](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUzMywicHVyIjoiYmxvYl9pZCJ9fQ==--ee7e1ac974c1604b84e5669a83e954a19cccd7a7/Screenshot%202025-10-25%20190233.png)
+  
+
+## 10/25/2025 4 PM - Found a base design keeb  
+
+https://docs.dailycraft.jp/keyboards/claw44/whatis.html (the claw 44) is the coolest keeb i think ive ever seen tbh, i looked at a bunch of other keebs as well but this stood out the most to me.![Screenshot 2025-10-25 190717](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c35005fcd0577c3643401fec601c3f5f32fb2aec/Screenshot%202025-10-25%20190717.png)
   
 
